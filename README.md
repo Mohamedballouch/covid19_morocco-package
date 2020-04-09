@@ -5,6 +5,8 @@
 A small package of Python to access and track the number of cases of confirmed and deaths and  recovered people
 from the Coronavirus for Morocco
 
+![COVID2](https://user-images.githubusercontent.com/28219393/78923704-50138000-7aa1-11ea-9acb-c7247cd595a8.JPG)
+
 # Installation
 
 ```
@@ -34,6 +36,8 @@ covid19.plot_cases()
 #Plot histogram
 covid19.hist_cases()
 ```
+
+![COVID](https://user-images.githubusercontent.com/28219393/78923684-4a1d9f00-7aa1-11ea-988f-f1e310e8f934.JPG)
 
 ## Checking
 
