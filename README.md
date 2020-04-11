@@ -38,6 +38,8 @@ covid19.hist_cases()
 ```
 
 ![COVID](https://user-images.githubusercontent.com/28219393/78923684-4a1d9f00-7aa1-11ea-988f-f1e310e8f934.JPG)
+### Cases by regions
+![image](https://user-images.githubusercontent.com/28219393/79053998-4416f200-7c4a-11ea-8b0d-6339301f923e.png)
 
 ### plot cases
 
