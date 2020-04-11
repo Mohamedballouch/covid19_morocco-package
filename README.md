@@ -39,6 +39,13 @@ covid19.hist_cases()
 
 ![COVID](https://user-images.githubusercontent.com/28219393/78923684-4a1d9f00-7aa1-11ea-988f-f1e310e8f934.JPG)
 
+### plot cases
+
+![covi3](https://user-images.githubusercontent.com/28219393/79053911-986da200-7c49-11ea-8370-39dda1df4177.JPG)
+
+### Historgram 
+![covi4](https://user-images.githubusercontent.com/28219393/79053913-999ecf00-7c49-11ea-837f-cae0e1ff9aed.JPG)
+
 ## Checking
 
 To verify the retrieved data within this library
